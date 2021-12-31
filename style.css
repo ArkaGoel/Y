@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+img{
+    width: 30%;
+}
+h1{
+    color: purple;
+    font-family: Twinkle Star;
+}
+p{
+    color: blueviolet;
+    font-family: 'Twinkle Star', cursive;
+    font-size: large;
+}
